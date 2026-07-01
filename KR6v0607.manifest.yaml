@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR6v0607/v1
+canonical_location: https://kanripo.org/bkk/KR6v0607/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雜阿含經論會編
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y30/Y30n0030.xml
+    old_id: Y30n0030
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0607_000.yaml, hash: 'sha256:dd9ece7a478d4377cef1584b2a185fdc2ad9ad0b23c5bcf31425d596138cc83b'}
+  - {seq: 1, filename: KR6v0607_001.yaml, hash: 'sha256:10c40cf14bbcccfa157b190dfda4ba21a699e0ecc6898a57818b2533661b97b1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0607_000.markers.yaml, hash: 'sha256:4fff72e60a1212ab61a371d9044bce553f9c70ec660afb381414ff5bba0fba7c'}
+  - {seq: 1, role: markers, filename: assets/KR6v0607_001.markers.yaml, hash: 'sha256:86e7b239d4a880de830ba6cad6dd1f72f64632f8aa2708d569d232251feca222'}
+table_of_contents: []
+hash: sha256:9d7250198a737aba31ed2701a87ecc87d2b976e170ae8fa5f732ae841307fb44
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
