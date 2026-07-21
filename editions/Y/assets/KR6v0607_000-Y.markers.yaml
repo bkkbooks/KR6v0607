@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6v0607/Y/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6v0607_Y_000-a001a, 'n': a001a, ed: 'Y', source_xml_id: Y30.0030.a001a}
   - {type: line-break, offset: 0, content: '', id: KR6v0607_Y_000-a001a01, ed: 'Y', 'n': a001a01}
   - {type: 其他, offset: 0, content: 序, id: KR6v0607_Y_000-mulu-1, level: '1'}
@@ -11540,6 +11540,5 @@ markers:
   - {type: line-break, offset: 25174, content: '', id: KR6v0607_Y_000-b074a01, ed: 'Y', 'n': b074a01}
   - {type: page-break, offset: 25174, content: '', id: KR6v0607_Y_000-0001a, 'n': 0001a, ed: 'Y', source_xml_id: Y30.0030.0001a}
   - {type: line-break, offset: 25174, content: '', id: KR6v0607_Y_000-0001a01, ed: 'Y', 'n': 0001a01}
-  body: []
   back: []
-hash: sha256:e5bf80ed27b3f217feb6fc03bd16ea46718fcb2dfb0968827b3501e2d91bebe9
+hash: sha256:aa4c19c2d8343d187bf156445610b202bc0425f265e708f5540d80c1febb8bcf
